@@ -316,7 +316,7 @@
         ],
         "settings": {
           "shop_name": "MVC IMPORTS PERÚ",
-          "display_shopify_by": true,
+          "display_shopify_by": false,
           "display_payment_methods": true,
           "pay_visa": true,
           "pay_master": true,
