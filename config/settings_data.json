@@ -262,7 +262,7 @@
           "logo": "shopify:\/\/shop_images\/2.png",
           "desktop_logo_size": "30%",
           "logo_mobile": "shopify:\/\/shop_images\/2.png",
-          "mobile_logo_size": "35%",
+          "mobile_logo_size": "30%",
           "main_linklist": "main-menu",
           "disable_header_strip": false,
           "disable_search": false,
