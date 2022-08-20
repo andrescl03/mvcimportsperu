@@ -283,7 +283,7 @@
               "logo_footer": true,
               "desktop_logo_size": "50%",
               "title": "",
-              "content": "<p>Lo quieres, lo tienes! Envío gratis a todo Lima Metropolitana y callao.<\/p>",
+              "content": "<p>Lo quieres, lo tienes! Envío gratis a todo <strong>Lima Metropolitana<\/strong> y <strong>Callao<\/strong>.<\/p>",
               "social_icons_footer": true
             }
           },
