@@ -260,7 +260,7 @@
           "remove_space": true,
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/2.png",
-          "desktop_logo_size": "20%",
+          "desktop_logo_size": "10%",
           "logo_mobile": "shopify:\/\/shop_images\/2.png",
           "mobile_logo_size": "30%",
           "main_linklist": "main-menu",
