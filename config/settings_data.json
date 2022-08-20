@@ -646,25 +646,11 @@
       "1615156051f01cbf9e": {
         "type": "faq",
         "blocks": {
-          "1615156051b6fdc04e-0": {
-            "type": "faq",
-            "settings": {
-              "faq_title": "¿Necesito tener una cuenta para realizar pedidos?",
-              "faq_text": "<p>No, también puede realizar un pedido como invitado. Pero existen algunos beneficios si tiene una cuenta con nosotros:<\/p><p>- Proceso de pago rápido<\/p><p>- Vea fácilmente el estado de su pedido y el historial de pedidos<\/p><p>- Reciba actualizaciones que detallan nuestros nuevos lanzamientos y promociones especiales.<\/p>"
-            }
-          },
           "1615156051b6fdc04e-1": {
             "type": "faq",
             "settings": {
               "faq_title": "¿Qué métodos de pago aceptan?",
               "faq_text": "<p>Aceptamos <strong>Pago Contra Entrega<\/strong> en Lima Metropolitana y Callao.<\/p><p>Aceptamos las principales tarjetas de crédito y de débito (VISA, Mastercard)<\/p><p>También puedes pagar mediante aplicativo <strong>YAPE, PLIN, ETC.<\/strong><\/p><p><br\/><\/p>"
-            }
-          },
-          "1615156051b6fdc04e-2": {
-            "type": "faq",
-            "settings": {
-              "faq_title": "¿Qué tan seguro es mi pedido en línea?",
-              "faq_text": "<p>Cuando compra en línea con su tarjeta de crédito, toda su información se ingresa en una página web segura SSL. Luego, su información se cifra mediante SSL y se envía directamente a la red de nuestro proveedor de tarjetas de crédito, donde su tarjeta y transacción están autorizadas y aprobadas. La información de su tarjeta de crédito no se almacena en nuestros servidores. Tampoco vendemos sus datos <\/p>"
             }
           },
           "1615156051b6fdc04e-3": {
@@ -676,9 +662,7 @@
           }
         },
         "block_order": [
-          "1615156051b6fdc04e-0",
           "1615156051b6fdc04e-1",
-          "1615156051b6fdc04e-2",
           "1615156051b6fdc04e-3"
         ],
         "settings": {
