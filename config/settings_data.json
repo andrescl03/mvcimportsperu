@@ -544,7 +544,7 @@
         "type": "collection",
         "settings": {
           "title": "🔥LOS MÁS VENDIDOS🔥",
-          "collection": "productos-en-oferta",
+          "collection": "🔥los-mas-vendidos🔥",
           "grid": 4,
           "rows": 2,
           "show_vendor": false,
