@@ -335,7 +335,7 @@
       "unavailable": "No disponible",
       "on_sale": "Oferta",
       "quantity": "Cantidad",
-      "add_to_cart": "🔥HACER PEDIDO (PAGA AL RECIBIR) 🚚",
+      "add_to_cart": "",
       "back_to_collection": "Volver a {{ title }}",
       "on_save": "% DESCUENTO",
       "on_save_like_price": "Salvar",
