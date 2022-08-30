@@ -335,7 +335,7 @@
           "show_quantity_selector": true,
           "show_vendor": false,
           "enable_zoom": false,
-          "shake_effect_enable": true,
+          "shake_effect_enable": false,
           "readmore_enable": false,
           "enable_progressbar_text": true,
           "enable_timer_top_message": true,
